@@ -1,13 +1,12 @@
 
 ### Hello :wave:
+<hr>
 
 #### I'm Laura Leite
 
-<hr>
-
 ##### :desktop_computer: I am a Software Developer 
 
- ##### :round_pushpin:I live in Manaus, Brazil
+##### :round_pushpin:I live in Manaus, Brazil
 
 ##### :books: And I am student in Institute Technology of Amazonas - IFAM
 
@@ -23,15 +22,11 @@
 
 <hr>
 
-#### My interests
+#### Bio
 
 ##### :heart: I really love development web systems
 
 ##### :briefcase: I am working in a research project about Images Analysis and Machine Learning
-
-<hr>
-
-#### About me and Other interests
 
 ##### :basketball::soccer: I really like sports and be healthy
 
