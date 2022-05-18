@@ -1,16 +1,41 @@
-### Hi there 👋
 
-<!--
-**laulloliv/laulloliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello :wave:
 
-Here are some ideas to get you started:
+#### I'm Laura Leite
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+##### :desktop_computer: I am a Software Developer 
+
+ ##### :round_pushpin:I live in Manaus, Brazil
+
+##### :books: And I am student in Institute Technology of Amazonas - IFAM
+
+<hr>
+
+#### Skills
+
+##### :gear: .js .css .html .ts .tsx .scss .java .py .c
+
+##### :nail_care: reactjs, reacthooks, styled-components, bootstrap
+
+##### :mag: pd, np, plt, sklearn
+
+<hr>
+
+#### My interests
+
+##### :heart: I really love development web systems
+
+##### :briefcase: I am working in a research project about Images Analysis and Machine Learning
+
+<hr>
+
+#### About me and Other interests
+
+##### :basketball::soccer: I really like sports and be healthy
+
+##### :eyes::seedling: I am curious and I like learn a lot
+
+##### :speech_balloon::bulb: and I like to talk about everything, like ideas, projects, technologies, innovations,... So, let's talk, feel free to contact me :)
+
