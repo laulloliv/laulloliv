@@ -1,6 +1,5 @@
 
 ## Hello :wave:
-<hr>
 
 ### I'm Laura Leite
 
