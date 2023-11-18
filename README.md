@@ -11,11 +11,19 @@
 
 ### Skills
 
-#### :gear: .js .css .html .ts .tsx .scss .java .py .c
+### :gear: Backend
+-  Python C# Java NodeJS
+-  RestAPI gRPC SSE OPC UA MQTT
+-  Unit for Digital Twins
 
-#### :nail_care: reactjs, reacthooks, styled-components, bootstrap
+### :nail_care: Frontend 
+- ReactJS
+- Angular
+- Typescript
+- styled-components
 
-#### :mag: pd, np, plt, sklearn
+#### :mag: Others
+- Data Science and Computer Vision
 
 <hr>
 
