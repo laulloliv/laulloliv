@@ -12,18 +12,14 @@
 ### Skills
 
 ### :gear: Backend
--  Python C# Java NodeJS
+-  Python NodeJS
 -  RestAPI gRPC SSE OPC UA MQTT
--  Unit for Digital Twins
+-  Unity and C# for Digital Twins
 
 ### :nail_care: Frontend 
 - ReactJS
-- Angular
 - Typescript
-- styled-components
-
-#### :mag: Others
-- Data Science and Computer Vision
+- Styled-components
 
 <hr>
 
@@ -31,7 +27,7 @@
 
 #### :heart: I really love development web systems
 
-#### :briefcase: I am working in a research project about Images Analysis and Machine Learning
+#### :briefcase: I've worked in a research project about Images Analysis and Machine Learning
 
 #### :basketball::soccer: I really like sports and be healthy
 
