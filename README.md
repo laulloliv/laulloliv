@@ -5,20 +5,21 @@
 
 #### :desktop_computer: I am a Software Developer 
 #### :round_pushpin:I live in Manaus, Brazil
-#### :books: And I am student in Institute Technology of Amazonas - IFAM
+#### :books: Graduated from Institute Technology of Amazonas - IFAM
 
 <hr>
 
 ### Skills
 
 ### :gear: Backend
--  Python NodeJS
--  RestAPI gRPC SSE OPC UA MQTT
+-  Python NodeJS C# ASP.NET
+-  RestAPI gRPC SSE OPC UA MQTT Sockets
 -  Unity and C# for Digital Twins
+-  AWS  SQS / SNS  Keycloak
 
 ### :nail_care: Frontend 
-- ReactJS
-- Typescript
+- ReactJS NextJS
+- Typescript Zustand
 - Styled-components
 
 <hr>
